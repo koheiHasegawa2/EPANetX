@@ -8,7 +8,7 @@ This software can be programmed by using its Programmer's toolkit and now wraped
 This software is widely used by a symbol of water distrion systems analysis (WDSA) community for almost twenty years.
 
 ◆What is NetworkX◆
-NetworkX is an graph/network theory libraryfor Python Environment (see https://networkx.github.io/documentation/stable/tutorial.html).
+NetworkX is an graph/network theory library for Python Environment (see https://networkx.github.io/documentation/stable/tutorial.html).
 This can solve a variety of network problem such as shortest path between nodes, and visualize networks composed of links and nodes with attributes (e.g, elavation, pressure, diameter).
 This is now used by WNTR (pronounced "winter") , an WDSs resilience analysis softawre developed by US-EPA (see https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NHSRC&dirEntryId=337793). But still, NetworkX has not used so much despite high compatibility of its library with EPANet.
 
