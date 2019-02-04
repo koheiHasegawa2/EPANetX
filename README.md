@@ -16,7 +16,7 @@ This is now used by WNTR (pronounced "winter") , an WDSs resilience analysis sof
 Major version of EPANET is 2.0 and EPANET is being developed as an open-souce project (see https://github.com/OpenWaterAnalytics/EPANET).
 Throhgh its open-source project version 2.1 has already been released and ver. 3.0 is planed to be released in the near future (hopefully). 
 An major drawbacks of EPANET are poor visualization capability, limited number of legend component and so on.
-EPANET is often integrated into optimization algorithms through EPANET toolkit, but the toolkit does not have a calling function for network visulization. Thus, users have to input optimized network configuration into EPANET and visualize the optimized network for every single optimization of any kind of simulation using the toolkit. It waste your time.
+EPANET is often integrated into optimization algorithms through EPANET toolkit, but the toolkit does not have a calling function for network visulization. Thus, users have to input optimized network configuration into EPANET and visualize the optimized network for every single optimization or any kind of simulation using the toolkit. It waste your time.
 It should be great if network visualization function can be called in your programme with better visualization and network analysis capability.
 This project is to improve and support EPANet function by integrating NetworkX into EPAnet.
 
